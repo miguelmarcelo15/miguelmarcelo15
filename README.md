@@ -28,7 +28,7 @@ Looking for an internship opportunity in software development, where I can apply
 
 | Project | Description | Stack |
 |---|---|---|
-| [Portfolio-Etec] | ([https://github.com/felipebsa/cvvj](https://github.com/etecvav26-1C2-02/2-BIM)) | Make in group |
+| [Portfolio-Etec] | ([https://github.com/miguel/cvvj](https://github.com/etecvav26-1C2-02/2-BIM)) | Make in group |
 
 ---
 
